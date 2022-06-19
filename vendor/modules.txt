@@ -1,7 +1,2 @@
 # golang.org/x/text v0.3.7
-## explicit; go 1.17
-golang.org/x/text/encoding
-golang.org/x/text/encoding/charmap
-golang.org/x/text/encoding/internal
-golang.org/x/text/encoding/internal/identifier
-golang.org/x/text/transform
+## explicit; go 1.18
